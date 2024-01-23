@@ -1,1 +1,1 @@
-console.log('Hello world');
+console.log('This the index file');
